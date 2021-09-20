@@ -1,7 +1,9 @@
 ###### ADP1
 
 ## Installation
-from source
+Install PyCoinGeckoAPI:
+**pip install pycoingecko**
+and clone
 ```
 git clone https://github.com/moralfager/ADP1.git
 cd adp1.git
