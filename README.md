@@ -1,15 +1,10 @@
 ###### ADP1
 
 ## Installation
-PyPI
-```
-pip install pycoingecko
-```
-or from source
+from source
 ```
 git clone https://github.com/moralfager/ADP1.git
-cd pycoingecko
-python3 setup.py install
+cd adp1.git
 ```
 ## Usage
 ```python
