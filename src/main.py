@@ -6,7 +6,7 @@ path = "example.json"
 with open("example.json", "w") as json_file:
     json.dump(data1, json_file, indent=2)
 count = 0
-print("write number")
+print("Enter the number of cryptocurrencies in the top by market capitalization")
 terminal = int(input())
 data1.sort(key=operator.itemgetter('market_cap'), reverse=True)
 for x in range(count,terminal):
